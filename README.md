@@ -1,2 +1,2 @@
 # USA_Temperature
- Interative map that to see changes in temrature in the USA. 
+ Interative map that to see changes in temperature in the USA. 
